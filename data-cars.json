@@ -1,0 +1,3 @@
+[{"CarId":"ABC789","Location":{"x":3,"y":2.57},"IsPink":true,"Riding":true},
+{"CarId":"ABC112","Location":{"x":2.25,"y":5.7},"IsPink":false,"Riding":false},
+{"CarId":"ABC145","Location":{"x":4.25,"y":2.57},"IsPink":false,"Riding":true}]
